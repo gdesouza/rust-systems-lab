@@ -25,7 +25,7 @@ repository useful as a portfolio and as teaching material.
 ## Current exercises
 
 | Exercise | Project | Status | Focus |
-| --- | --- | --- |
+| --- | --- | --- | --- |
 | 01 | Hex Dump | Capturing review artifacts | CLI design, byte formatting, error handling, streaming I/O |
 
 ## Working rhythm
