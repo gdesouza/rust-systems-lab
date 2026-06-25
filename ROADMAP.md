@@ -1,12 +1,23 @@
 # Roadmap
 
-This roadmap is expected to evolve as the lab exposes gaps, interests, and
-useful intermediate projects.
+This roadmap is the source of truth for journey state. Update the `Status` and
+`Notes` columns whenever an exercise moves forward.
+
+Status meanings:
+
+- `Planned`: not started.
+- `Preparing`: lesson or design prep is underway.
+- `Implementing`: the user is writing the first attempt.
+- `Reviewing`: submitted code is being reviewed.
+- `Archiving`: code, review, mistakes, and retrospective artifacts are being
+  copied into the repo.
+- `Complete`: artifacts are captured and the exercise can be used as course
+  evidence.
 
 | No. | Exercise or Project | Status | Notes |
 | --- | --- | --- | --- |
-| 01 | Hex Dump | In progress | Capture existing implementation review and learning artifacts. |
-| 02 | Strings | Planned | Explore string storage, encodings, slicing, and allocation behavior. |
+| 01 | Hex Dump | Archiving | Source and review are in `.codex/chat-6a3c8c8af49881918136e633beed8f89-03.md`; copy the first attempt into `starter/` and reconcile `review.md` and `mistakes.md`. |
+| 02 | Strings | Planned | Next exercise after Hex Dump is archived; focus on byte streams, UTF-8, buffering, state machines, and tests. |
 | 03 | Process Monitor | Planned | Inspect processes and practice OS-facing Rust. |
 | 04 | Read-only Linux Explorer | Planned | Navigate Linux system information safely. |
 | 05 | Robot Diagnostic Toolkit | Planned | Build practical CLI diagnostics for robotics-style systems. |

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Reviewer"
+  short_description: "Review Rust code in mentor-style layers."
+  default_prompt: "Review my Rust code without rewriting the whole solution."

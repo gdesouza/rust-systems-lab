@@ -1,0 +1,4 @@
+interface:
+  display_name: "Rust Tutor"
+  short_description: "Prepare focused Rust lessons without giving full solutions."
+  default_prompt: "Prepare me for the next Rust systems exercise."

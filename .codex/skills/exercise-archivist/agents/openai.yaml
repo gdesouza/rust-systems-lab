@@ -1,0 +1,4 @@
+interface:
+  display_name: "Exercise Archivist"
+  short_description: "Archive exercise code and review artifacts."
+  default_prompt: "Archive this exercise into the repository structure."

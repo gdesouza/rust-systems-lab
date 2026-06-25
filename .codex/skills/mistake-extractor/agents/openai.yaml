@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mistake Extractor"
+  short_description: "Extract durable lessons from review findings."
+  default_prompt: "Extract the mistakes and lessons from this review."
